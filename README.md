@@ -29,7 +29,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![](https://komarev.com/ghpvc/?Arbikhan007)
+![](https://komarev.com/ghpvc/?username=Arbikhan007&label=PROFILE+VIEWS)
 
 <p align="left">
   <img height="170px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arbikhan007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
